@@ -56,7 +56,7 @@ The following list is by no means exhaustive, feel free to edit the list (will p
 | [tslearn](https://github.com/rtavenar/tslearn) | Direct time series classifiers and regressors |
 | [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) | Preprocess time series (resampling, denoising etc.), still WIP |
 | [tsmoothie](https://github.com/cerlymarco/tsmoothie) | A python library for time-series smoothing and outlier detection in a vectorized way|
-
+| [tsauditor](https://github.com/imann128/tsauditor) | A python library auditing time-series data quality. Flags issues like data leakage, distributional inconsistencies, and misleading feature-target relationships|
 
 ## Examples or singular models
 
